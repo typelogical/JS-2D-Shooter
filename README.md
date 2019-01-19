@@ -1,4 +1,4 @@
-# JS-Monster-Block-Shooter
+# JS-2D Shooter
 A simple 2D shooting game created in JavaScript.
 
 You are a laser machine gun weilding maniac bent on eliminating block monsters. You've been stationed 
